@@ -1,0 +1,9 @@
+.inner {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #e3f2fd;
+  display: flex;
+  align-items: center;
+}
